@@ -69,3 +69,4 @@ target_stock = forecast * lead_time + safety_stock
 print("Prévision =", round(forecast, 2))
 print("Stock de sécurité =", round(safety_stock, 2))
 print("Stock cible =", round(target_stock, 2))
+https://www.kaggle.com/code/lamarque/notebookab27d90f2e
